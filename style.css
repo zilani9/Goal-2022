@@ -1,0 +1,80 @@
+section{
+    display: flex;
+    
+    
+}
+div img{
+    float: right;
+    width: 1200px;
+    border-radius: 600px;
+    width:80%;
+    
+
+}
+#mission{
+    color: orchid;
+    font-size: 50px;
+}
+h3{
+   padding-left: 40%;
+   font-size: 32px;
+   color: darkblue;
+}
+span{
+    color:mediumslateblue;
+}
+
+.stay-focus{
+    color: brown;
+    margin: 8px;
+    
+    font: size 78px;
+    padding: 6%;
+    width: 50%;
+
+}
+
+.link-button{
+    text-decoration: none;
+    background: orange;
+    padding: 12px 38px;
+    margin-top: 10px;
+}
+.dream-big{
+    display: flex;
+    
+    
+}
+.big-hole{
+    background-color: mediumvioletred;
+    border-radius: 25px;
+    padding:5px 10px;
+    
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+
+}
+.medium-hole{
+    background-color: olive;
+    border-radius: 25px;
+    padding-right: 6px;
+    padding-left: 2px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+.small-hole{
+    background-color: yellowgreen;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+.big-hole img{
+    width: 170px;
+
+}
